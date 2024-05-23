@@ -1,0 +1,24 @@
+:root{
+    --bg-color:#181419;
+    --primary-color:#9f3647;
+    --secondary-color:#ffc098;
+    --third-color:#db4648;
+    --third-bis-color:#db4648f2;
+    --bg-input-color:#4f31572c;
+
+}
+
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Nunito',sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+#logo{
+    font-weight: bold;
+}
